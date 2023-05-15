@@ -1,5 +1,5 @@
 # ODMTutorial
-Passo a passo para instalação, construção, testes de regras no ODM
+Passo a passo para instalação, construção, testes de regras no ODM (Arquivo step-by-step-ODM.pdf)
 
 
 ## Parte 1 - Instalando o ODM toolkit 
