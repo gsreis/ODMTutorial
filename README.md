@@ -50,3 +50,6 @@ Opções de ordem de execução de um Flow
 FastPath - Sequential e REteplus
 Critérios de saída 
 
+## Apendice C - Testar uma decision table isoladamente
+
+
