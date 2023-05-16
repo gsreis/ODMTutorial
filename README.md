@@ -42,7 +42,7 @@ Como configurar um DataSource e baixar as regras do banco de dados do ODM
 Utilizando um diretório local como parte da carga das regras 
 
 
-## Apendice A - Construção do Workspace do Eclipse a par5r de um Library no Decision Center
+## Apendice A - Construção do Workspace do Eclipse a partir de um Library no Decision Center
 Como importar um projeto do Decision Center para um Eclipse e reconstruir os XOMS
 
 ## Apendice B – Opções de configuração para Flows
